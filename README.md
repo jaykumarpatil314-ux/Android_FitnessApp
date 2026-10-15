@@ -1,6 +1,6 @@
-# CodeAlpha_Android_FitnessApp
+Android_FitnessApp
 
-A Native **Android Mobile Application** developed in **Java** for the **CodeAlpha Mobile & Web Application Development Internship (Task 3)**, integrated with the **Java REST Backend**.
+A Native **Android Mobile Application** developed in **Java** for the **Mobile & Web Application Development Internship (Task 3)**, integrated with the **Java REST Backend**.
 
 ![Android](https://img.shields.io/badge/Platform-Android%20%7C%20Java-3DDC84?style=for-the-badge&logo=android)
 ![Backend](https://img.shields.io/badge/Backend-Java%20HTTP%20REST-orange?style=for-the-badge&logo=openjdk)
