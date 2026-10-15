@@ -13,7 +13,7 @@ A Native **Android Mobile Application** developed in **Java** for the **Mobile &
 - ⚡ **One-Tap Quick Loggers**: `+500 Steps` button and `+1 Glass Water` button.
 - 🏋️ **Manual Workout Logger**: Dialog to log workouts (Running, Cycling, Gym, Yoga, HIIT) with duration and calories.
 - 🕒 **Recent Activities Feed**: Displays logged exercises in real time.
-- 🌐 **Java Backend Synchronization**: Syncs activities with `CodeAlpha_Java_Backend` running on port 8080 (`http://10.0.2.2:8080/api/fitness`).
+- 🌐 **Java Backend Synchronization**: Syncs activities with `Java_Backend` running on port 8080 (`http://10.0.2.2:8080/api/fitness`).
 
 ---
 
